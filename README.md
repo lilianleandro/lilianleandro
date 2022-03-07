@@ -1,7 +1,6 @@
 ### Lili 👋
 
-Developer front end
-
+front end developer
 <!--
 **lilianleandro/lilianleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
